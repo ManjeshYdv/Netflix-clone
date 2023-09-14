@@ -44,6 +44,10 @@ nav button{
     cursor: pointer;
 }
 
+nav button a{
+    color: #fff;
+}
+
 .language-btn{
    display: inline-flex;
    align-items: center;
@@ -101,6 +105,9 @@ nav button{
     padding: 15px 30px;
 }
 
+.email-signup button a{
+    color: #fff;
+}
 /* ----------features----------- */
 
 .features{
